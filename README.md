@@ -1,2 +1,2 @@
-# node-mongo
+# node-mongodb
 NodeJS, Mongodb - Coursera
